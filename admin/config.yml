@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: yulia-kh/testing-netlify
+  open_authoring: true
   branch: gh-pages # Branch to update (optional; defaults to master)
   site_domain: happy-aryabhata-7c9b8f.netlify.com
 publish_mode: editorial_workflow
