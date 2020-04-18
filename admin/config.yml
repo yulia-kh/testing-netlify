@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: yulia-kh/yulia-kh.github.io
   branch: gh-pages # Branch to update (optional; defaults to master)
   site_domain: happy-aryabhata-7c9b8f.netlify.com
