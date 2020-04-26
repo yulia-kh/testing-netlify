@@ -16,7 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Github Project ID", name: "identification", widget: "hidden", default: ""}
       - {label: "Title", name: "title", widget: "string"}
-      - {hint: "Description should be between 20 and 500 characters long", label: "Description", name: "description", widget: "markdown", pattern: ['.{20,500}', "Must have at least 20 and maximum 300 characters"]}
+      - {hint: "Description should be between 20 and 500 characters long", label: "Description", name: "description", widget: "markdown", pattern: ['.{20,500}', "Must have at least 20 and maximum 500 characters"]}
       - {label: "Card Image", name: "image", widget: "image"}
       - {label: "Alt Text", name: "alt", widget: "string"}
       - {label: "Hero Image", name: "image-hero", widget: "image", required: false}
