@@ -8,6 +8,7 @@ publish_mode: editorial_workflow
 media_folder: "assets/images/projects"
 collections:
   - name: "projects" # Used in routes, e.g., /admin/collections/blog
+    preview_path: "projects/{{slug}}" 
     label: "Projects" # Used in the UI
     folder: "_projects" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -15,7 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Github Project ID", name: "identification", widget: "hidden", default: ""}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", pattern: ['.{20,500}', "Must have at least 20 and maximum 300 characters"]}
       - {label: "Card Image", name: "image", widget: "image"}
       - {label: "Alt Text", name: "alt", widget: "string"}
       - {label: "Hero Image", name: "image-hero", widget: "image", required: false}
@@ -40,7 +41,7 @@ collections:
         required: false
         hint: "Please provide links to your GitHub project, Wiki, Slack channel, Site, Test Site, etc."
         fields:
-          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Name", name: "name", widget: "string", pattern: ['\b(Wiki|Slack|GitHub|Test Site|Site)\b', "Must be one of the following: Site, Test Site, GitHub, Slack or Wiki"]}
           - {label: "URL", name: "url", widget: "string"}
       - {label: "Looking", name: "looking", widget: "list", required: false}
       - {label: "Location", name: "location", widget: "string", required: false, hint: "One or more of Downtown LA, Santa Monica, South LA, Remote"}
