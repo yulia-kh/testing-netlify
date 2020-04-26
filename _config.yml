@@ -32,7 +32,7 @@ defaults:
     values:
       layout: "project"
 
-       Exclude from processing.
+# Exclude from processing.
 # The following items will not be processed.
 exclude:
   - README.md
