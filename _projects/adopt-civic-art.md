@@ -8,7 +8,7 @@ description: >-
   building it. 
 
 
-  # This is annoying text in the middle of the card. See if you will accept any old junk.
+  # This is annoying text in the middle of the card.
 image: /assets/images/projects/adopt-civic-art.jpg
 alt: "'adopt civic arts'"
 links:
