@@ -128,6 +128,12 @@
           "gravatar_id": ""
         },
         {
+          "id": 54752231,
+          "github_url": "https://github.com/hannahlivnat",
+          "avatar_url": "https://avatars2.githubusercontent.com/u/54752231?v=4",
+          "gravatar_id": ""
+        },
+        {
           "id": 188812,
           "github_url": "https://github.com/vepkenez",
           "avatar_url": "https://avatars2.githubusercontent.com/u/188812?v=4",
@@ -137,12 +143,6 @@
           "id": 7980047,
           "github_url": "https://github.com/GeorgeSu",
           "avatar_url": "https://avatars0.githubusercontent.com/u/7980047?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 54752231,
-          "github_url": "https://github.com/hannahlivnat",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/54752231?v=4",
           "gravatar_id": ""
         },
         {
@@ -191,6 +191,47 @@
           "id": 10860384,
           "github_url": "https://github.com/bingr001",
           "avatar_url": "https://avatars1.githubusercontent.com/u/10860384?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 241519642,
+    "name": "CTI-website-frontend",
+    "languages": {
+      "url": "https://api.github.com/repos/civictechindex/CTI-website-frontend/languages",
+      "data": [
+        "JavaScript",
+        "HTML",
+        "Dockerfile"
+      ]
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/civictechindex/CTI-website-frontend/contributors",
+      "data": [
+        {
+          "id": 30850773,
+          "github_url": "https://github.com/Jeff-Enriquez",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/30850773?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 35303056,
+          "github_url": "https://github.com/Abhishek-AC",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/35303056?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 5952,
+          "github_url": "https://github.com/cnk",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/5952?v=4",
           "gravatar_id": ""
         }
       ]
@@ -1320,47 +1361,6 @@
           "id": 47721192,
           "github_url": "https://github.com/rachioko",
           "avatar_url": "https://avatars1.githubusercontent.com/u/47721192?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 241519642,
-    "name": "website",
-    "languages": {
-      "url": "https://api.github.com/repos/civictechindex/website/languages",
-      "data": [
-        "JavaScript",
-        "HTML",
-        "Dockerfile"
-      ]
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/civictechindex/website/contributors",
-      "data": [
-        {
-          "id": 30850773,
-          "github_url": "https://github.com/Jeff-Enriquez",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/30850773?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 35303056,
-          "github_url": "https://github.com/Abhishek-AC",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/35303056?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 5952,
-          "github_url": "https://github.com/cnk",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/5952?v=4",
           "gravatar_id": ""
         }
       ]
