@@ -227,15 +227,21 @@
           "gravatar_id": ""
         },
         {
+          "id": 59858341,
+          "github_url": "https://github.com/JacobZwang",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/59858341?v=4",
+          "gravatar_id": ""
+        },
+        {
           "id": 54009156,
           "github_url": "https://github.com/myastark",
           "avatar_url": "https://avatars2.githubusercontent.com/u/54009156?v=4",
           "gravatar_id": ""
         },
         {
-          "id": 59858341,
-          "github_url": "https://github.com/JacobZwang",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/59858341?v=4",
+          "id": 69663209,
+          "github_url": "https://github.com/Arjayellis",
+          "avatar_url": "https://avatars3.githubusercontent.com/u/69663209?v=4",
           "gravatar_id": ""
         },
         {
@@ -245,9 +251,9 @@
           "gravatar_id": ""
         },
         {
-          "id": 69663209,
-          "github_url": "https://github.com/Arjayellis",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/69663209?v=4",
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
           "gravatar_id": ""
         },
         {
@@ -266,12 +272,6 @@
           "id": 47486070,
           "github_url": "https://github.com/AlbertUlysses",
           "avatar_url": "https://avatars1.githubusercontent.com/u/47486070?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
           "gravatar_id": ""
         },
         {
@@ -1126,6 +1126,25 @@
           "id": 44175476,
           "github_url": "https://github.com/pras4u",
           "avatar_url": "https://avatars1.githubusercontent.com/u/44175476?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 293907049,
+    "name": "civic-tech-structure",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
+      "data": []
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
+      "data": [
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
           "gravatar_id": ""
         }
       ]
@@ -2502,39 +2521,6 @@
           "id": 36710209,
           "github_url": "https://github.com/nmgonthier",
           "avatar_url": "https://avatars1.githubusercontent.com/u/36710209?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 157484926,
-    "name": "criminal-sentencing",
-    "languages": {
-      "url": "https://api.github.com/repos/timdef/criminal-sentencing/languages",
-      "data": [
-        "Jupyter Notebook"
-      ]
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/timdef/criminal-sentencing/contributors",
-      "data": [
-        {
-          "id": 19231588,
-          "github_url": "https://github.com/cendylin",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/19231588?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 13793236,
-          "github_url": "https://github.com/timdef",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/13793236?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 15381642,
-          "github_url": "https://github.com/lxqnt",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/15381642?v=4",
           "gravatar_id": ""
         }
       ]
