@@ -242,15 +242,15 @@
           "gravatar_id": ""
         },
         {
-          "id": 30099154,
-          "github_url": "https://github.com/Jonathanko52",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/30099154?v=4",
-          "gravatar_id": ""
-        },
-        {
           "id": 11644789,
           "github_url": "https://github.com/alex-anakin",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11644789?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 30099154,
+          "github_url": "https://github.com/Jonathanko52",
+          "avatar_url": "https://avatars3.githubusercontent.com/u/30099154?v=4",
           "gravatar_id": ""
         },
         {
@@ -382,8 +382,8 @@
       "data": [
         "Jupyter Notebook",
         "JavaScript",
-        "HTML",
         "PLpgSQL",
+        "HTML",
         "Python",
         "SCSS",
         "HCL",
