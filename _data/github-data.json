@@ -231,15 +231,15 @@
           "gravatar_id": ""
         },
         {
-          "id": 6464919,
-          "github_url": "https://github.com/jafow",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/6464919?v=4",
-          "gravatar_id": ""
-        },
-        {
           "id": 3424516,
           "github_url": "https://github.com/aNullValue",
           "avatar_url": "https://avatars2.githubusercontent.com/u/3424516?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 6464919,
+          "github_url": "https://github.com/jafow",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6464919?v=4",
           "gravatar_id": ""
         },
         {
@@ -348,41 +348,6 @@
     }
   },
   {
-    "id": 293636694,
-    "name": "true-github-contributors",
-    "languages": {
-      "url": "https://api.github.com/repos/100Automations/true-github-contributors/languages",
-      "data": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ]
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/100Automations/true-github-contributors/contributors",
-      "data": [
-        {
-          "id": 18221058,
-          "github_url": "https://github.com/KianBadie",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 61798667,
-          "github_url": "https://github.com/NivenPrasad",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
     "id": 215666884,
     "name": "food-oasis",
     "languages": {
@@ -431,15 +396,15 @@
           "gravatar_id": ""
         },
         {
-          "id": 43628838,
-          "github_url": "https://github.com/bfojas",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/43628838?v=4",
-          "gravatar_id": ""
-        },
-        {
           "id": 4600967,
           "github_url": "https://github.com/bbovenzi",
           "avatar_url": "https://avatars0.githubusercontent.com/u/4600967?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 43628838,
+          "github_url": "https://github.com/bfojas",
+          "avatar_url": "https://avatars2.githubusercontent.com/u/43628838?v=4",
           "gravatar_id": ""
         },
         {
@@ -536,6 +501,41 @@
           "id": 9485285,
           "github_url": "https://github.com/ssiegal1",
           "avatar_url": "https://avatars0.githubusercontent.com/u/9485285?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 293636694,
+    "name": "true-github-contributors",
+    "languages": {
+      "url": "https://api.github.com/repos/100Automations/true-github-contributors/languages",
+      "data": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/100Automations/true-github-contributors/contributors",
+      "data": [
+        {
+          "id": 18221058,
+          "github_url": "https://github.com/KianBadie",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 61798667,
+          "github_url": "https://github.com/NivenPrasad",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
           "gravatar_id": ""
         }
       ]
