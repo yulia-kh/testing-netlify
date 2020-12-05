@@ -203,8 +203,8 @@
       "url": "https://api.github.com/repos/hackforla/311-data/languages",
       "data": [
         "JavaScript",
-        "Python",
         "Jupyter Notebook",
+        "Python",
         "SCSS",
         "HCL",
         "Shell",
