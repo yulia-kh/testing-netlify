@@ -197,6 +197,25 @@
     }
   },
   {
+    "id": 293907049,
+    "name": "civic-tech-structure",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
+      "data": []
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
+      "data": [
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
     "id": 241519642,
     "name": "CTI-website-frontend",
     "languages": {
@@ -230,15 +249,15 @@
           "gravatar_id": ""
         },
         {
-          "id": 30323224,
-          "github_url": "https://github.com/jsachsman",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/30323224?v=4",
-          "gravatar_id": ""
-        },
-        {
           "id": 75456721,
           "github_url": "https://github.com/Olivia-Chiong",
           "avatar_url": "https://avatars2.githubusercontent.com/u/75456721?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 30323224,
+          "github_url": "https://github.com/jsachsman",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/30323224?v=4",
           "gravatar_id": ""
         },
         {
@@ -1700,25 +1719,6 @@
           "id": 41893422,
           "github_url": "https://github.com/cristianbuta",
           "avatar_url": "https://avatars3.githubusercontent.com/u/41893422?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 293907049,
-    "name": "civic-tech-structure",
-    "languages": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
-      "data": []
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
-      "data": [
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
           "gravatar_id": ""
         }
       ]
