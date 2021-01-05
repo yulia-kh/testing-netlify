@@ -197,6 +197,87 @@
     }
   },
   {
+    "id": 293907049,
+    "name": "civic-tech-structure",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
+      "data": []
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
+      "data": [
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 218391110,
+    "name": "record-clearance",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/record-clearance/languages",
+      "data": [
+        "JavaScript",
+        "TypeScript",
+        "Jupyter Notebook",
+        "HTML",
+        "Python",
+        "CSS"
+      ]
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/record-clearance/contributors",
+      "data": [
+        {
+          "id": 35116846,
+          "github_url": "https://github.com/alexchoiweb",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/35116846?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 54191142,
+          "github_url": "https://github.com/H1Angela",
+          "avatar_url": "https://avatars3.githubusercontent.com/u/54191142?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 15892775,
+          "github_url": "https://github.com/cayd",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/15892775?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 60045418,
+          "github_url": "https://github.com/j100892",
+          "avatar_url": "https://avatars3.githubusercontent.com/u/60045418?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 6464919,
+          "github_url": "https://github.com/jafow",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6464919?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 1783439,
+          "github_url": "https://github.com/thekaveman",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/1783439?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 6728799,
+          "github_url": "https://github.com/luciewho",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6728799?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
     "id": 241519642,
     "name": "CTI-website-frontend",
     "languages": {
@@ -389,19 +470,25 @@
     }
   },
   {
-    "id": 293907049,
-    "name": "civic-tech-structure",
+    "id": 192279828,
+    "name": ".github",
     "languages": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
+      "url": "https://api.github.com/repos/hackforla/.github/languages",
       "data": []
     },
     "contributors": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
+      "url": "https://api.github.com/repos/hackforla/.github/contributors",
       "data": [
         {
           "id": 37763229,
           "github_url": "https://github.com/ExperimentsInHonesty",
           "avatar_url": "https://avatars0.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 5952,
+          "github_url": "https://github.com/cnk",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/5952?v=4",
           "gravatar_id": ""
         }
       ]
@@ -1224,68 +1311,6 @@
           "id": 50305762,
           "github_url": "https://github.com/tan-zhou",
           "avatar_url": "https://avatars0.githubusercontent.com/u/50305762?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 218391110,
-    "name": "record-clearance",
-    "languages": {
-      "url": "https://api.github.com/repos/hackforla/record-clearance/languages",
-      "data": [
-        "JavaScript",
-        "TypeScript",
-        "Jupyter Notebook",
-        "HTML",
-        "Python",
-        "CSS"
-      ]
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/hackforla/record-clearance/contributors",
-      "data": [
-        {
-          "id": 35116846,
-          "github_url": "https://github.com/alexchoiweb",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/35116846?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 54191142,
-          "github_url": "https://github.com/H1Angela",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/54191142?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 15892775,
-          "github_url": "https://github.com/cayd",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/15892775?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 60045418,
-          "github_url": "https://github.com/j100892",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/60045418?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 6464919,
-          "github_url": "https://github.com/jafow",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/6464919?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 1783439,
-          "github_url": "https://github.com/thekaveman",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/1783439?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 6728799,
-          "github_url": "https://github.com/luciewho",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/6728799?v=4",
           "gravatar_id": ""
         }
       ]
@@ -2809,28 +2834,6 @@
           "id": 1873072,
           "github_url": "https://github.com/matikin9",
           "avatar_url": "https://avatars1.githubusercontent.com/u/1873072?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 212488094,
-    "name": "ocean-maps",
-    "languages": {
-      "url": "https://api.github.com/repos/hackforla/ocean-maps/languages",
-      "data": [
-        "JavaScript",
-        "HTML"
-      ]
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/hackforla/ocean-maps/contributors",
-      "data": [
-        {
-          "id": 4305532,
-          "github_url": "https://github.com/dcstone09",
-          "avatar_url": "https://avatars3.githubusercontent.com/u/4305532?v=4",
           "gravatar_id": ""
         }
       ]
