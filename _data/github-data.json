@@ -197,6 +197,56 @@
     }
   },
   {
+    "id": 293907049,
+    "name": "civic-tech-structure",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
+      "data": []
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
+      "data": [
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 273746448,
+    "name": "civic-opportunity",
+    "languages": {
+      "url": "https://api.github.com/repos/hackforla/civic-opportunity/languages",
+      "data": []
+    },
+    "contributors": {
+      "url": "https://api.github.com/repos/hackforla/civic-opportunity/contributors",
+      "data": [
+        {
+          "id": 50305762,
+          "github_url": "https://github.com/tan-zhou",
+          "avatar_url": "https://avatars.githubusercontent.com/u/50305762?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 67340971,
+          "github_url": "https://github.com/rfambro2",
+          "avatar_url": "https://avatars.githubusercontent.com/u/67340971?v=4",
+          "gravatar_id": ""
+        },
+        {
+          "id": 37763229,
+          "github_url": "https://github.com/ExperimentsInHonesty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/37763229?v=4",
+          "gravatar_id": ""
+        }
+      ]
+    }
+  },
+  {
     "id": 241519642,
     "name": "CTI-website-frontend",
     "languages": {
@@ -1462,25 +1512,6 @@
     }
   },
   {
-    "id": 293907049,
-    "name": "civic-tech-structure",
-    "languages": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/languages",
-      "data": []
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/hackforla/civic-tech-structure/contributors",
-      "data": [
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars.githubusercontent.com/u/37763229?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
     "id": 275296439,
     "name": "CTI-website-backend",
     "languages": {
@@ -1687,37 +1718,6 @@
           "id": 45021523,
           "github_url": "https://github.com/pmfabel",
           "avatar_url": "https://avatars.githubusercontent.com/u/45021523?v=4",
-          "gravatar_id": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": 273746448,
-    "name": "civic-opportunity",
-    "languages": {
-      "url": "https://api.github.com/repos/hackforla/civic-opportunity/languages",
-      "data": []
-    },
-    "contributors": {
-      "url": "https://api.github.com/repos/hackforla/civic-opportunity/contributors",
-      "data": [
-        {
-          "id": 67340971,
-          "github_url": "https://github.com/rfambro2",
-          "avatar_url": "https://avatars.githubusercontent.com/u/67340971?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 37763229,
-          "github_url": "https://github.com/ExperimentsInHonesty",
-          "avatar_url": "https://avatars.githubusercontent.com/u/37763229?v=4",
-          "gravatar_id": ""
-        },
-        {
-          "id": 50305762,
-          "github_url": "https://github.com/tan-zhou",
-          "avatar_url": "https://avatars.githubusercontent.com/u/50305762?v=4",
           "gravatar_id": ""
         }
       ]
