@@ -6,7 +6,7 @@ description: "# The hackforla.org website is our organization's way of
   good place to start for new volunteers looking to polish their git protocol
   skills (branches, separation of concerns, etc.). We are currently in a
   redesign phase, using CI/CD in the run up to demoing the new version at Code
-  for America's **Summit 2020 in Washington, D.C. test update**"
+  for America's Summit 2020 in Washington, D.C. test update again"
 image: /assets/images/projects/website.png
 alt: wireframe sample from new website
 leadership:
